@@ -1,4 +1,3 @@
-# VBA-challenge
 
 Sub challenge2()
 Dim sh As Worksheet
